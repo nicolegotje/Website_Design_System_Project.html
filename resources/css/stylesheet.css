@@ -1,7 +1,0 @@
-nav li{
-    display: inline-block;
-}
-
-.breadcrumb li+li::before {
-    content: "/";
-}
